@@ -1,0 +1,54 @@
+* {
+    font-family: "Dosis";
+    outline: none;
+    border: none;
+}
+
+::placeholder {
+    color: #fff;
+    opacity: 1;
+}
+
+:-ms-input-placeholder {
+    color: #fff;
+}
+
+::-ms-input-placeholder {
+    color: #fff;
+}
+
+body {
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
+    transition: 1.5s;
+}
+
+#username-field {
+    font-size: 60px;
+}
+
+#username-field h6 {
+    font-style: italic;
+    font-weight: normal;
+}
+
+#username-field i {
+    font-size: 130px;
+    margin: -16px 0 0 0;
+    position: absolute;
+}
+
+#username-field input {
+    text-align: center;
+    font-size: 80px;
+    border: 6px solid #fff;
+    background-color: transparent;
+    border-radius: 100px;
+    padding: 12px 0;
+    transition: 1.5s;
+}
