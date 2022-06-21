@@ -8,3 +8,27 @@ In this video, I will create a Live Username Checker From a real MySQL database 
 
 ## Video Tutorial [ Creating This Widget From Scratch ]
 [https://youtu.be/q-z7GRqvJfw](https://youtu.be/q-z7GRqvJfw)
+
+ 
+
+## If You Enjoy My Content, Please Support Me 😍🙏
+
+💙 PAYPAL DONATION
+
+https://paypal.me/gilgeekify
+
+❤️ PATREON
+
+https://www.patreon.com/gilgeekify
+
+💛 BUY ME A COFFEE
+
+https://www.buymeacoffee.com/gilgeekify
+
+🪙 My Public Address To Receive BTC • Bitcoin
+
+bc1qerc5ev074cqknu9nz589w4vjf5ecmhuc2df83h
+
+🥈 My Public Address To Receive ETH • Ethereum
+
+0x566A47B9731209A5144336D274D44224bfb9C0ea
